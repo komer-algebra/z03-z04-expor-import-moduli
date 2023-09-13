@@ -1,8 +1,16 @@
-# React + Vite
+# z3 i z4: expor import moduli
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## z3
 
-Currently, two official plugins are available:
+1.	Napraviti novu React aplikaciju.
+2.	Napraviti jednu datoteku s default export modulom
+3.	Napraviti novu datoteku s tri named export modula
+4.	Unutar App.js-a importati sve export-ane modele
+5.	Iskoristiti sve importane module
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## z4
+
+1. Početno stanje: Početno stanje u mapi src/Components su napravljene četiri komponente.
+Potrebno napraviti React aplikaciju koja će raditi slijedeće:
+2. Unutar App.js-a u jednoj programskoj naredbi importati sve četiri komponente.
+2. Prikazati sve četiri komponente na ekranu.
